@@ -1,5 +1,3 @@
 def main(msg)
 
-// print a msg
-
-// print a second msg
+// now test the results
