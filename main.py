@@ -1,5 +1,3 @@
 def main(msg);
 
-// no comment required
-
-def fun2();
+// now test the results
