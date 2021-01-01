@@ -1,5 +1,5 @@
-def main(msg)
+def main(msg);
 
-// print a msg
+// no comment required
 
-// print a second msg
+def fun2();
